@@ -1,0 +1,5 @@
+[
+     { "firstname" : "abderrahmane", "lastname" : "dellal", "age" : 26 },
+     { "firstname" : "khaled", "lastname": "dellal", "age" : 18 },
+     { "firstname": "jhon", "lastname": "doe", "age" : 38 }
+]
